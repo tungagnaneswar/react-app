@@ -1,4 +1,6 @@
-Kanban Board - React Application
+
+Kanban ![Screenshot 2025-03-05 230701](https://github.com/user-attachments/assets/2ef3a69e-a240-4532-ae2c-6984180dc4a3)
+Board - React Application
 Overview
 
 This project is a simple Kanban Board built using React. It allows users to manage tasks by dragging and dropping them between different statuses: To Do, In Progress, and Done.
